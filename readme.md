@@ -1,3 +1,5 @@
+# This repository includes all my data science journy in which i have created and mentioned all files in which i have worked 
+
 
 there are virtual environment are using for running the python files and the virtual environment is installed in the py_virtual_env folder 
 
